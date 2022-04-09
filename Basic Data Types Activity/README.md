@@ -1,1 +1,2 @@
 # Working with Basic Data Types Activity
+For the basic data types activity, I created a multitude of variables (Strings, ints, booleans, arrays) and strung them together to create a basic background story of my life.
