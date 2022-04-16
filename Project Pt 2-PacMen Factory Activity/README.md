@@ -1,1 +1,2 @@
 # Project Pt 2 - PacMen Factory Activity
+In the PacMen Factory, the task was to complete the missing lines in the pacmen.js file. These added lines allowed the buttons to spawn pacmen and enabled them to bounce off of walls.
